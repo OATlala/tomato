@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+sorted_results/
+results.csv
+mixed_test/
+early_1/
+.DS_Store

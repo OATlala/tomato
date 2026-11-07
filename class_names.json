@@ -1,0 +1,8 @@
+{
+  "classes": [
+    "Tomato_Early_blight",
+    "Tomato_Late_blight",
+    "Tomato_healthy"
+  ],
+  "img_size": 224
+}
